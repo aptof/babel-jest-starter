@@ -1,3 +1,3 @@
-export default sum = (a, b) => {
+export default (a, b) => {
   return a+b
 }
