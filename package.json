@@ -1,0 +1,33 @@
+{
+  "name": "babel-jest-starter",
+  "version": "1.0.0",
+  "access": "private",
+  "description": "babel jest starter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aptof/babel-jest.git"
+  },
+  "keywords": [
+    "babel",
+    "jest",
+    "starter"
+  ],
+  "author": "aptof",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aptof/babel-jest/issues"
+  },
+  "homepage": "https://github.com/aptof/babel-jest#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.19",
+    "jest": "^24.9.0"
+  },
+  "jshintConfig": {
+    "esversion": 9,
+    "asi": true
+  }
+}
